@@ -11,3 +11,6 @@ ex) git merge feature1 --allow-unrelated-histories
 
 클래스룸에 다른 레포지토리를 추가하다보니 발생한 문제이니 안내사항 참고하셔서 병합과 conflict merge 하시면 됩니다.
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TbF52kGg)
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TbF52kGg)
+2872f05 (add deadline)
