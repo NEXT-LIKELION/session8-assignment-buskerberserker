@@ -10,4 +10,12 @@ Git에서 두 브랜치를 병합할 때 다음과 같은 오류가 발생할 �
 이 문제를 해결하려면 `--allow-unrelated-histories` 옵션을 사용하여 강제로 병합할 수 있습니다:
 ex) git merge feature1 --allow-unrelated-histories
 
+<<<<<<< HEAD
 클래스룸에 레포지토리를 클래스룸에 다른 레포지토리를 추가하다보니 발생한 문제이니 안내사항 참고하셔서 병합과 conflict merge 하시면 됩니다.
+=======
+클래스룸에 다른 레포지토리를 추가하다보니 발생한 문제이니 안내사항 참고하셔서 병합과 conflict merge 하시면 됩니다.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TbF52kGg)
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TbF52kGg)
+2872f05 (add deadline)
+>>>>>>> feature1
